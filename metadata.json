@@ -1,0 +1,6 @@
+{
+  "name": "مدیریت مالی و کارهای روزانه (توسکا)",
+  "description": "سامانه جامع و پیشرفته مدیریت امور مالی، حسابداری شخصی، بودجه‌بندی و برنامه‌ریزی کارهای روزانه با تقویم خورشیدی و گزارش‌های PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
